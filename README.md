@@ -32,3 +32,5 @@ The primary task in this project is to perform image classification using convol
 ### Q2. Visual Representations Implementation (2%)
 - Visualize the learned visual representations of the CNN model on the validation set by implementing t-SNE on the output of both top and mid layers (You need to submit 2 images).
 - Briefly explain your results of the t-SNE visualization.
+![image](https://github.com/Bonbodii/Image-Classification-Using-CNN/assets/116272268/a34ba7a9-94fb-4409-9da8-6a1513ed3f9d) ![image](https://github.com/Bonbodii/Image-Classification-Using-CNN/assets/116272268/ffd58e7e-b7d8-4ae6-a3f5-9d456e55068d)
+
