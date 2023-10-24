@@ -28,6 +28,8 @@ The primary task in this project is to perform image classification using convol
 - Implement augmentation by finishing the `train_tfm` function in the code with an image size of your choice.
 - Copy your `train_tfm` code and paste it onto Gradescope, and explain the effects of the transformations you report.
 - Your `train_tfm` must be capable of producing 5+ different results when given an identical image multiple times.
+  ![image](https://github.com/Bonbodii/Image-Classification-Using-CNN/assets/116272268/66b42128-8820-4f44-b447-6378a42b7407)
+
 
 ### Q2. Visual Representations Implementation (2%)
 - Visualize the learned visual representations of the CNN model on the validation set by implementing t-SNE on the output of both top and mid layers (You need to submit 2 images).
